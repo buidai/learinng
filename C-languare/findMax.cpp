@@ -19,7 +19,7 @@ main (){
 	scanf("%d%d",&a,&b);
 	if(a>b)
      {
-	   max=a;
+	   max=a;// test change
 	   min=b;
      }
 	else
