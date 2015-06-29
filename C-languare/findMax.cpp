@@ -20,7 +20,7 @@ main (){
 	if(a>b)
      {
 	   max=a;// test change
-	   min=b;
+	   min=b;// test change 1
      }
 	else
 	  {
