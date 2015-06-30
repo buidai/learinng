@@ -1,3 +1,12 @@
+//===========================================================
+/*
+	FileName	: tienDien.cpp
+	Author		: bui.quoc.dai
+	Date		: 29/06/2015 (dd/mm/yy)	
+	Note		:
+*/
+//==========================================================
+
 #include<stdio.h>
 #include<conio.h>
 #include <windows.h>
@@ -27,7 +36,7 @@ main()
         {
             t=100*750+100*1250+100*1270+(n-300)*3000;
         }
-        printf("%d VND",t);
+        printf("ban phai tra %d VND",t);
     }
     else
     {
